@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.1",
-  "versionCode": 5,
-  "date": "2026-03-13T02:17:55.645Z",
-  "changelog": "v1.3.1: Fix hola repetido, micro envia audio real, auto-update 1 click",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.1/SuggyClient-v1.3.1.apk"
+  "version": "v1.3.2",
+  "versionCode": 6,
+  "date": "2026-03-13T02:49:48.788Z",
+  "changelog": "v1.3.2: Micro audio, carpeta local, fix actualización, Filesystem plugin",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.2/SuggyClient-v1.3.2.apk"
 }
