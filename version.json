@@ -1,7 +1,7 @@
 {
-  "version": "v1.2.0",
-  "versionCode": 3,
-  "date": "2026-03-13T01:32:19.693Z",
-  "changelog": "v1.2.0: Fix apertura - carga desde servidor como Suggy, icono nuevo, auto-update",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.2.0/SuggyClient-v1.2.0.apk"
+  "version": "v1.3.0",
+  "versionCode": 4,
+  "date": "2026-03-13T01:40:46.581Z",
+  "changelog": "v1.3.0: FIX CRITICO - Java package corregido, la app abre correctamente",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.0/SuggyClient-v1.3.0.apk"
 }
