@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.3",
-  "versionCode": 7,
-  "date": "2026-03-13T03:05:08.186Z",
-  "changelog": "v1.3.3: Permisos completos, update sin bucle, REQUEST_INSTALL_PACKAGES",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.3/SuggyClient-v1.3.3.apk"
+  "version": "v1.3.4",
+  "versionCode": 8,
+  "date": "2026-03-13T03:28:30.899Z",
+  "changelog": "v1.3.4: Restaurado server.url, config EXACTA Suggy admin, permisos correctos",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.4/SuggyClient-v1.3.4.apk"
 }
