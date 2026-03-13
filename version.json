@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.2",
-  "versionCode": 6,
-  "date": "2026-03-13T02:49:48.788Z",
-  "changelog": "v1.3.2: Micro audio, carpeta local, fix actualización, Filesystem plugin",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.2/SuggyClient-v1.3.2.apk"
+  "version": "v1.3.3",
+  "versionCode": 7,
+  "date": "2026-03-13T03:05:08.186Z",
+  "changelog": "v1.3.3: Permisos completos, update sin bucle, REQUEST_INSTALL_PACKAGES",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.3/SuggyClient-v1.3.3.apk"
 }
