@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.6",
-  "versionCode": 10,
-  "date": "2026-03-13T04:42:02.476Z",
-  "changelog": "v1.3.6: Icono cerebro, chat persistente 7 dias",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.6/SuggyClient-v1.3.6.apk"
+  "version": "v1.3.7",
+  "versionCode": 8,
+  "date": "2026-03-13T07:00:30.904Z",
+  "changelog": "Nuevo icono robot 3D + diseño premium",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-releases/releases/download/v1.3.7/suggy-client.apk"
 }
